@@ -1,0 +1,32 @@
+body{
+    width:100%;
+}
+.container-top{
+    border: solid 5px black;
+    padding: 60px;
+}
+.rectangle{
+display: inline-block;
+height:120px;
+width:50px;
+background-color: purple;
+
+}
+.square{
+    display:inline-block;
+    height:200px;
+    width:400px;
+    background-color:green;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.circle{
+    display:inline-block;
+    background-color: lightblue;
+    height: 200px;
+    width:200px;
+    border-radius: 100px;
+}
+.yellow-box-shadow{
+    border: dotted 5x black 
+}

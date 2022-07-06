@@ -1,0 +1,22 @@
+body{
+    background-color: lightgrey;
+    
+}
+header{
+    background-color: grey;
+    width: 100vw;
+    height: 20vh;
+}
+main{
+    background-color: white;
+    height:100vh;
+    margin-right: 100px;
+    margin-left:100px;
+    
+}
+footer{
+    background-color: black;
+    height:10vh;
+    margin-right: 100px;
+    margin-left:100px;
+}
